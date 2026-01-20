@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, I'm Tobias Wendenburg
 
+🔭 I’m currently working on getting my Projects online via my Homelab
+🌱 I’m currently learning React/Vite
 <!--
 **Tobeker/Tobeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
